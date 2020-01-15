@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Umm, idk, i'm just.. just a programmer, y'know.
 
 
 ### Contact me
