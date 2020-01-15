@@ -1,0 +1,16 @@
+---
+layout: post
+title: We are online!
+---
+
+After some time cloning repositories and doing a bunch of other things, we're finnally up!
+I'm going to post some things in here like, devlogs, and things such as this.
+Phew, i guess that's it.
+
+I will leave this code here.
+
+```py
+print("Hello World!")
+```
+
+Bye!
